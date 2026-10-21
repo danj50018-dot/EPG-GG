@@ -6,5 +6,55 @@ http://64.31.23.207:80/59471019/60849037/324357.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais Abertos",SBT HD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9084.m3u8
 
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais Abertos",SBT FHD
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9082.m3u8
 
+#EXTINF:-1 tvg-id="GRD" tvg-logo="https://img.faz-o-eli.online/globorj.png" group-title="Canais Abertos",Globo
+http://vivlar.me:80/live/497238/KK8Kdy/131182.m3u8
 
+#EXTINF:-1 tvg-id="GRD" tvg-logo="https://img.faz-o-eli.online/globorj.png" group-title="Canais Abertos",Globo FHD
+http://vivlar.me:80/live/497238/KK8Kdy/72025.m3u8
+
+#EXTINF:-1 tvg-id="REC" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="Canais Abertos",Record TV HD
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/106095.m3u8
+
+#EXTINF:-1 tvg-id="TED" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="Canais Aberto",TV BRASIL 
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-id="TED" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="Canais Aberto",TV BRASIL HD
+http://vivlar.me:80/live/497238/KK8Kdy/72401.m3u8
+
+#EXTINF:-1 tvg-id="TED" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="Canais Aberto",TV BRASIL FHD
+http://45.177.114.115/TV_BRASIL/index.m3u8
+
+#EXTINF:-1 tvg-id="24H" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="24H",24H Bob Esponja Calça Quadrada
+http://vivlar.me:80/live/497238/KK8Kdy/138065.m3u8
+
+#EXTINF:-1 tvg-id="24H" tvg-logo="https://img.faz-o-eli.online/24h.png62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="24H",24H Chaves
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169218.m3u8
+
+#EXTINF:-1 tvg-id="24H" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24H",24H Dragon Ball Z
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169226.m3u8
+
+#EXTINF:-1 tvg-id="24H" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24H",24H Todo Mundo Odeia o Cris
+http://vivlar.me:80/live/497238/KK8Kdy/135469.m3u8
+
+#EXTINF:-1 tvg-id="24H" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24H",24H Pica Pau
+http://vivlar.me:80/live/497238/KK8Kdy/136821.m3u8
+
+#EXTINF:-1 tvg-id="24H" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24H",24H Os Simpsons
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169244.m3u8
+
+#EXTINF:-1 tvg-id="24H" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24H",24H Naruto Clássico
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_naruto.txt
+
+#EXTINF:-1 tvg-id="DIW" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentario",Discovery World 
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13513.m3u8
+
+#EXTINF:-1 tvg-id="DIW" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentario",Discovery World HD
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/8759.m3u8 
+
+#EXTINF:-1 tvg-id="DIW" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentario",Discovery World FHD
+http://vivlar.me:80/live/497238/KK8Kdy/71887.m3u8
+
+#EXTINF:-1 tvg-id="DIS" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentario",Discovery Channel
